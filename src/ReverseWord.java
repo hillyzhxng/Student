@@ -2,7 +2,7 @@ public class ReverseWord
 {
     public static void main (String[] args)
     {
-        char[] myArray = new char [8];
+        char[] myArray = new char [7];
         myArray [0] = 's';
         myArray [1] = 't';
         myArray [2] = 'u';
@@ -10,7 +10,6 @@ public class ReverseWord
         myArray [4] = 'e';
         myArray [5] = 'n';
         myArray [6] = 't';
-        myArray [6] = 's';
         
         for (int i = 0; i < myArray.length; i++)
         {

@@ -2,6 +2,8 @@ public class ReverseWord
 {
     public static void main (String[] args)
     {
+        //added comment for fetch+merge 
+        
         char[] myArray = new char [7];
         myArray [0] = 's';
         myArray [1] = 't';

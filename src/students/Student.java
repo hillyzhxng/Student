@@ -4,6 +4,17 @@ public class Student
 {
     private String studentID;
     private String studentName;
+    private String studentAddress;
+
+    public String getStudentAddress() 
+    {
+        return studentAddress;
+    }
+
+    public void setStudentAddress(String studentAddress)
+    {
+        this.studentAddress = studentAddress;
+    }
 
     public Student(String studentID, String studentName) 
     {//start of constructor

@@ -13,6 +13,7 @@ public class ReverseWord
         myArray [4] = 'e';
         myArray [5] = 'n';
         myArray [6] = 't';
+        myArray [7] = 's';
         
         for (int i = 0; i < myArray.length; i++)
         {
